@@ -1,9 +1,12 @@
 # PuppersName
 Small Project from naming new puppy.
 
+## Who
 The Girlfriend and I are getting a new puppy. He is a Cane Corso. This is him:
 https://cdn.discordapp.com/attachments/897313361660887090/897313435321270312/image0.jpg
 
+
+## What We Did
 We started a naming tournament bracket to find the lil guys name check it out here:
 https://challonge.com/kuur9xjb.svg
 
