@@ -2,6 +2,10 @@
 
 Small Project for naming our new puppy. I did this to practice my data analyst skills, and learn how to use github. Very simple data collection, cleaning, and Tableau work.
 
+If you want to participate in round 2 of the naming process vote here: https://www.quiz-maker.com/poll3955224x37a149E2-125
+
+We narrowed the names down to 20.
+
 ## Table of Contents
 
 1. [Who](https://github.com/allan1371/PuppersName/blob/main/README.md#Who)
