@@ -1,6 +1,6 @@
 # PuppersName
 
-Small Project from naming new puppy. I did this to practice my data analyst skills. Very simple data collection, cleaning, and Tableau work.
+Small Project for naming our new puppy. I did this to practice my data analyst skills. Very simple data collection, cleaning, and Tableau work.
 
 ## Who
 
