@@ -40,9 +40,14 @@ Disagreed = If we said different names.
 
 ## The Results
 
+### Naming Points Totals
 ![Dashboard 1](https://user-images.githubusercontent.com/89806168/137884219-f39466e1-b29c-4703-8e45-9336c2643b54.png)
+
+### Coin Flip Winners
+
+![Flip Winner](https://user-images.githubusercontent.com/89806168/137886904-b8d34449-28e1-44bc-a999-b9a18f1cda30.png)
 
 
 
 ## Conclusion
-Altough we haven't decided on a name. I wanted to visualized how unfair this kind of system for chosing a name would be. 'Appa' had the most points, but did not end up in the finals. As well as some names we really liked being eliminated early. Due to this fact. We have decided to go for round 2 of the naming process. More to come later. 
+Altough we haven't decided on a name. I wanted to visualized how unfair this kind of system for chosing a name would be. 'Appa' had the most points, but did not end up in the finals. As well as some names we really liked being eliminated early because of a coin flip. On top of that, for some reason I was winning more coin flips than my girlfriend. Due to these facts. We have decided to go for round 2 of the naming process. More to come later. 
