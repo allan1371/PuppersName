@@ -1,6 +1,17 @@
 # PuppersName
 
-Small Project for naming our new puppy. I did this to practice my data analyst skills. Very simple data collection, cleaning, and Tableau work.
+Small Project for naming our new puppy. I did this to practice my data analyst skills, and learn how to use github. Very simple data collection, cleaning, and Tableau work.
+
+## Table of Contents
+
+1. [Who](https://github.com/allan1371/PuppersName/blob/main/README.md#Who)
+2. [What We Did](https://github.com/allan1371/PuppersName/blob/main/README.md#What-we-did)
+3. [The Scoring System](https://github.com/allan1371/PuppersName/blob/main/README.md#The-Scoring-System)
+4. [Cleaning the Data](https://github.com/allan1371/PuppersName/blob/main/README.md#Cleaning-the-Data)
+5. [The Results](https://github.com/allan1371/PuppersName/blob/main/README.md#The-Results)
+6. [Conclusion](https://github.com/allan1371/PuppersName/blob/main/README.md#Conclusion)
+
+
 
 ## Who
 
