@@ -29,7 +29,7 @@ Disagreed = If we said different names.
 
 ## Cleaning the Data
 
-###Unclean Data
+### Unclean Data
 
 ![unclean data](https://user-images.githubusercontent.com/89806168/137883035-fc9a466c-d49a-4649-8c1f-bedb1b1ec7d6.JPG)
 
